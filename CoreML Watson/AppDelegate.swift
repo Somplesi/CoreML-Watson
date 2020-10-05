@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CoreML Watson
 //
-//  Created by Matthieu PASSEREL on 13/05/2018.
-//  Copyright © 2018 Matthieu PASSEREL. All rights reserved.
+//  Created by Rodolphe DUPUY on 05/10/2020.
+//  Copyright © 2020 Rodolphe DUPUY. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
